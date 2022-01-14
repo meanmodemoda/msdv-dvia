@@ -1,0 +1,67 @@
+html {
+  font-size: 14px;
+  /*font-family: 'Arial', sans-serif;*/
+max-width: 1000px;
+  background-color: white;
+  box-sizing: border-box;
+  margin: auto;
+  width: 50%;
+}
+
+*, *:before, *:after {
+box-sizing: inherit;
+}
+
+.intro {
+  background-image: url(./banner.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 410px;
+  /*background-color: #0011ff;*/
+  padding: 1%;
+  display: block;
+}
+
+h1 {
+  font-family: "Rampart One";
+  text-align: right;
+  font-size: 4em;
+  padding-right: 1.5em;
+}
+
+
+h3 {
+  font-family: "Bowlby One";
+  text-align: left;
+  padding-left: 5em;
+}
+
+p {
+  font-family: "Noto Sans Display";
+  text-align: left;
+  padding-left: 6em;
+}
+
+footer
+{
+  font-family: "Noto Sans Display";
+  text-align: right;
+  padding-left: 2em;
+  color: #124712;
+}
+
+
+#tooltip {
+  border: 1px solid #ccc;
+  position: absolute;
+  padding: 10px;
+  background-color: #fff;
+  display: none;
+  pointer-events: none;
+}
+
+
+/*#chart {*/
+/*  border: 1px solid black;*/
+/*}*/

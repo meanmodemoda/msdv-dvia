@@ -1,0 +1,2 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-11-20T23:50:44.205Z,19.4512,101.3449,10,6.1,mww,,33,2.356,0.77,us,us70006ara,2019-11-21T17:49:21.775Z,"31km ESE of Chaloem Phra Kiat, Thailand",earthquake,6.8,1.8,0.089,12,reviewed,us,us

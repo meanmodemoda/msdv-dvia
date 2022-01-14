@@ -1,0 +1,341 @@
+﻿year,neighborhood,borough,num
+2016,Bayside Little Neck-Fresh Meadows,Queens,6.9
+2010,Bayside Little Neck-Fresh Meadows,Queens,9.1
+2011,Bayside Little Neck-Fresh Meadows,Queens,9.7
+2017,Bayside Little Neck-Fresh Meadows,Queens,7
+2014,Bayside Little Neck-Fresh Meadows,Queens,8.4
+2012,Bayside Little Neck-Fresh Meadows,Queens,8.6
+2013,Bayside Little Neck-Fresh Meadows,Queens,8.1
+2015,Bayside Little Neck-Fresh Meadows,Queens,8.2
+2018,Bayside Little Neck-Fresh Meadows,Queens,6.5
+2009,Bayside Little Neck-Fresh Meadows,Queens,9.8
+2017,Bedford Stuyvesant - Crown Heights,Brooklyn,7.5
+2012,Bedford Stuyvesant - Crown Heights,Brooklyn,9.1
+2013,Bedford Stuyvesant - Crown Heights,Brooklyn,8.8
+2010,Bedford Stuyvesant - Crown Heights,Brooklyn,9.9
+2014,Bedford Stuyvesant - Crown Heights,Brooklyn,9.2
+2015,Bedford Stuyvesant - Crown Heights,Brooklyn,8.9
+2016,Bedford Stuyvesant - Crown Heights,Brooklyn,7.9
+2018,Bedford Stuyvesant - Crown Heights,Brooklyn,7.3
+2011,Bedford Stuyvesant - Crown Heights,Brooklyn,10.3
+2009,Bedford Stuyvesant - Crown Heights,Brooklyn,10.8
+2016,Bensonhurst - Bay Ridge,Brooklyn,7.1
+2009,Bensonhurst - Bay Ridge,Brooklyn,9.9
+2012,Bensonhurst - Bay Ridge,Brooklyn,8.6
+2013,Bensonhurst - Bay Ridge,Brooklyn,8.2
+2014,Bensonhurst - Bay Ridge,Brooklyn,8.6
+2015,Bensonhurst - Bay Ridge,Brooklyn,8.1
+2010,Bensonhurst - Bay Ridge,Brooklyn,9.2
+2011,Bensonhurst - Bay Ridge,Brooklyn,9.8
+2017,Bensonhurst - Bay Ridge,Brooklyn,7.1
+2018,Bensonhurst - Bay Ridge,Brooklyn,6.7
+2016,Borough Park,Brooklyn,7.5
+2011,Borough Park,Brooklyn,10.1
+2013,Borough Park,Brooklyn,8.5
+2014,Borough Park,Brooklyn,8.9
+2017,Borough Park,Brooklyn,7.3
+2018,Borough Park,Brooklyn,7
+2010,Borough Park,Brooklyn,9.6
+2015,Borough Park,Brooklyn,8.4
+2009,Borough Park,Brooklyn,10.3
+2012,Borough Park,Brooklyn,8.9
+2013,Canarsie - Flatlands,Brooklyn,8.2
+2017,Canarsie - Flatlands,Brooklyn,7
+2010,Canarsie - Flatlands,Brooklyn,9.1
+2011,Canarsie - Flatlands,Brooklyn,9.6
+2016,Canarsie - Flatlands,Brooklyn,7.1
+2018,Canarsie - Flatlands,Brooklyn,6.7
+2014,Canarsie - Flatlands,Brooklyn,8.5
+2015,Canarsie - Flatlands,Brooklyn,8.1
+2009,Canarsie - Flatlands,Brooklyn,9.9
+2012,Canarsie - Flatlands,Brooklyn,8.4
+2012,Central Harlem - Morningside Heights,Manhattan,10
+2016,Central Harlem - Morningside Heights,Manhattan,8
+2018,Central Harlem - Morningside Heights,Manhattan,7.5
+2009,Central Harlem - Morningside Heights,Manhattan,11.6
+2011,Central Harlem - Morningside Heights,Manhattan,11.1
+2014,Central Harlem - Morningside Heights,Manhattan,9.7
+2010,Central Harlem - Morningside Heights,Manhattan,10.6
+2013,Central Harlem - Morningside Heights,Manhattan,9.7
+2015,Central Harlem - Morningside Heights,Manhattan,9.4
+2017,Central Harlem - Morningside Heights,Manhattan,7.9
+2013,Chelsea-Village,Manhattan,11.9
+2016,Chelsea-Village,Manhattan,10.1
+2017,Chelsea-Village,Manhattan,9.6
+2009,Chelsea-Village,Manhattan,13.7
+2010,Chelsea-Village,Manhattan,12.7
+2014,Chelsea-Village,Manhattan,12.1
+2018,Chelsea-Village,Manhattan,9.6
+2011,Chelsea-Village,Manhattan,12.9
+2015,Chelsea-Village,Manhattan,11.1
+2012,Chelsea-Village,Manhattan,11.9
+2017,Coney Island - Sheepshead Bay,Brooklyn,6.8
+2012,Coney Island - Sheepshead Bay,Brooklyn,8.3
+2014,Coney Island - Sheepshead Bay,Brooklyn,8.4
+2015,Coney Island - Sheepshead Bay,Brooklyn,7.7
+2016,Coney Island - Sheepshead Bay,Brooklyn,6.8
+2010,Coney Island - Sheepshead Bay,Brooklyn,8.9
+2011,Coney Island - Sheepshead Bay,Brooklyn,9.4
+2018,Coney Island - Sheepshead Bay,Brooklyn,6.6
+2009,Coney Island - Sheepshead Bay,Brooklyn,9.6
+2013,Coney Island - Sheepshead Bay,Brooklyn,8.1
+2016,Downtown - Heights - Slope,Brooklyn,8.9
+2009,Downtown - Heights - Slope,Brooklyn,11.5
+2017,Downtown - Heights - Slope,Brooklyn,8.4
+2018,Downtown - Heights - Slope,Brooklyn,7.9
+2014,Downtown - Heights - Slope,Brooklyn,10
+2010,Downtown - Heights - Slope,Brooklyn,10.5
+2013,Downtown - Heights - Slope,Brooklyn,9.5
+2015,Downtown - Heights - Slope,Brooklyn,9.9
+2011,Downtown - Heights - Slope,Brooklyn,11.1
+2012,Downtown - Heights - Slope,Brooklyn,9.9
+2016,East Flatbush - Flatbush,Brooklyn,7.6
+2009,East Flatbush - Flatbush,Brooklyn,10.5
+2010,East Flatbush - Flatbush,Brooklyn,9.8
+2013,East Flatbush - Flatbush,Brooklyn,8.6
+2015,East Flatbush - Flatbush,Brooklyn,8.6
+2018,East Flatbush - Flatbush,Brooklyn,7
+2011,East Flatbush - Flatbush,Brooklyn,10.2
+2014,East Flatbush - Flatbush,Brooklyn,9
+2017,East Flatbush - Flatbush,Brooklyn,7.4
+2012,East Flatbush - Flatbush,Brooklyn,9
+2017,East Harlem,Manhattan,8.1
+2009,East Harlem,Manhattan,11.6
+2012,East Harlem,Manhattan,10
+2014,East Harlem,Manhattan,9.8
+2016,East Harlem,Manhattan,8.2
+2015,East Harlem,Manhattan,9.5
+2010,East Harlem,Manhattan,10.4
+2013,East Harlem,Manhattan,9.7
+2018,East Harlem,Manhattan,7.4
+2011,East Harlem,Manhattan,11.1
+2017,East New York,Brooklyn,7.5
+2009,East New York,Brooklyn,10.6
+2011,East New York,Brooklyn,10.1
+2018,East New York,Brooklyn,7.1
+2010,East New York,Brooklyn,9.8
+2013,East New York,Brooklyn,8.7
+2012,East New York,Brooklyn,8.9
+2014,East New York,Brooklyn,9
+2015,East New York,Brooklyn,8.7
+2016,East New York,Brooklyn,7.8
+2014,Flushing - Clearview,Queens,8.6
+2015,Flushing - Clearview,Queens,8.5
+2012,Flushing - Clearview,Queens,8.9
+2017,Flushing - Clearview,Queens,7.3
+2018,Flushing - Clearview,Queens,6.9
+2010,Flushing - Clearview,Queens,9.3
+2013,Flushing - Clearview,Queens,8.4
+2016,Flushing - Clearview,Queens,7.2
+2009,Flushing - Clearview,Queens,10.2
+2011,Flushing - Clearview,Queens,10.1
+2018,Fordham - Bronx Pk,Bronx,7.2
+2014,Fordham - Bronx Pk,Bronx,9.2
+2015,Fordham - Bronx Pk,Bronx,9.1
+2009,Fordham - Bronx Pk,Bronx,11.1
+2013,Fordham - Bronx Pk,Bronx,9.1
+2010,Fordham - Bronx Pk,Bronx,10.3
+2011,Fordham - Bronx Pk,Bronx,10.8
+2017,Fordham - Bronx Pk,Bronx,7.5
+2012,Fordham - Bronx Pk,Bronx,9.5
+2016,Fordham - Bronx Pk,Bronx,7.6
+2018,Greenpoint,Brooklyn,8.7
+2013,Greenpoint,Brooklyn,10
+2012,Greenpoint,Brooklyn,10.3
+2015,Greenpoint,Brooklyn,10.5
+2017,Greenpoint,Brooklyn,9
+2009,Greenpoint,Brooklyn,11.9
+2010,Greenpoint,Brooklyn,10.6
+2016,Greenpoint,Brooklyn,9.5
+2011,Greenpoint,Brooklyn,11.5
+2014,Greenpoint,Brooklyn,10.5
+2017,Jamaica,Queens,7.1
+2011,Jamaica,Queens,9.6
+2012,Jamaica,Queens,8.5
+2013,Jamaica,Queens,8.3
+2015,Jamaica,Queens,8.2
+2016,Jamaica,Queens,7
+2009,Jamaica,Queens,10
+2014,Jamaica,Queens,8.5
+2018,Jamaica,Queens,6.7
+2010,Jamaica,Queens,9.3
+2016,Kingsbridge - Riverdale,Bronx,7.5
+2014,Kingsbridge - Riverdale,Bronx,9
+2013,Kingsbridge - Riverdale,Bronx,8.9
+2017,Kingsbridge - Riverdale,Bronx,7.4
+2012,Kingsbridge - Riverdale,Bronx,9.3
+2009,Kingsbridge - Riverdale,Bronx,11
+2015,Kingsbridge - Riverdale,Bronx,9.2
+2018,Kingsbridge - Riverdale,Bronx,7
+2010,Kingsbridge - Riverdale,Bronx,10.1
+2011,Kingsbridge - Riverdale,Bronx,10.7
+2017,Long Island City - Astoria,Queens,8.4
+2011,Long Island City - Astoria,Queens,11
+2012,Long Island City - Astoria,Queens,9.8
+2013,Long Island City - Astoria,Queens,9.6
+2016,Long Island City - Astoria,Queens,8.7
+2018,Long Island City - Astoria,Queens,8.2
+2009,Long Island City - Astoria,Queens,11.4
+2010,Long Island City - Astoria,Queens,10.1
+2014,Long Island City - Astoria,Queens,10
+2015,Long Island City - Astoria,Queens,9.8
+2012,Northeast Bronx,Bronx,9.1
+2015,Northeast Bronx,Bronx,9.1
+2017,Northeast Bronx,Bronx,7.5
+2010,Northeast Bronx,Bronx,9.7
+2014,Northeast Bronx,Bronx,9
+2018,Northeast Bronx,Bronx,7
+2013,Northeast Bronx,Bronx,8.7
+2016,Northeast Bronx,Bronx,7.6
+2009,Northeast Bronx,Bronx,10.7
+2011,Northeast Bronx,Bronx,10.5
+2009,Northern SI,SI,9.8
+2015,Northern SI,SI,8
+2012,Northern SI,SI,8.3
+2016,Northern SI,SI,7
+2017,Northern SI,SI,6.9
+2018,Northern SI,SI,6.5
+2013,Northern SI,SI,8
+2014,Northern SI,SI,8.5
+2010,Northern SI,SI,8.8
+2011,Northern SI,SI,9.5
+2017,Pelham - Throgs Neck,Bronx,7.5
+2018,Pelham - Throgs Neck,Bronx,7
+2010,Pelham - Throgs Neck,Bronx,9.7
+2014,Pelham - Throgs Neck,Bronx,9
+2009,Pelham - Throgs Neck,Bronx,10.6
+2011,Pelham - Throgs Neck,Bronx,10.5
+2015,Pelham - Throgs Neck,Bronx,8.9
+2012,Pelham - Throgs Neck,Bronx,9.2
+2013,Pelham - Throgs Neck,Bronx,8.7
+2016,Pelham - Throgs Neck,Bronx,7.5
+2015,Ridgewood - Forest Hills,Queens,8.5
+2016,Ridgewood - Forest Hills,Queens,7.6
+2010,Ridgewood - Forest Hills,Queens,9.5
+2011,Ridgewood - Forest Hills,Queens,10
+2009,Ridgewood - Forest Hills,Queens,10.4
+2013,Ridgewood - Forest Hills,Queens,8.5
+2014,Ridgewood - Forest Hills,Queens,8.9
+2017,Ridgewood - Forest Hills,Queens,7.3
+2018,Ridgewood - Forest Hills,Queens,7
+2012,Ridgewood - Forest Hills,Queens,8.8
+2009,Rockaways,Queens,8.8
+2012,Rockaways,Queens,7.4
+2015,Rockaways,Queens,7.2
+2010,Rockaways,Queens,8
+2011,Rockaways,Queens,8.4
+2017,Rockaways,Queens,6.3
+2013,Rockaways,Queens,7.6
+2014,Rockaways,Queens,7.7
+2016,Rockaways,Queens,6
+2018,Rockaways,Queens,6.1
+2018,South Bronx,Bronx,7.7
+2009,South Bronx,Bronx,11.6
+2010,South Bronx,Bronx,10.8
+2013,South Bronx,Bronx,9.7
+2014,South Bronx,Bronx,9.8
+2017,South Bronx,Bronx,8.2
+2012,South Bronx,Bronx,10.2
+2015,South Bronx,Bronx,9.6
+2016,South Bronx,Bronx,8.2
+2011,South Bronx,Bronx,11.4
+2009,Southeast Queens,Queens,9.4
+2012,Southeast Queens,Queens,8
+2013,Southeast Queens,Queens,7.9
+2015,Southeast Queens,Queens,7.9
+2010,Southeast Queens,Queens,8.7
+2011,Southeast Queens,Queens,9.2
+2016,Southeast Queens,Queens,6.5
+2017,Southeast Queens,Queens,6.8
+2018,Southeast Queens,Queens,6.4
+2014,Southeast Queens,Queens,8
+2016,Southern SI,SI,6.8
+2010,Southern SI,SI,8.8
+2017,Southern SI,SI,6.8
+2018,Southern SI,SI,6.4
+2009,Southern SI,SI,9.8
+2011,Southern SI,SI,9.4
+2012,Southern SI,SI,8.4
+2013,Southern SI,SI,8
+2014,Southern SI,SI,8.4
+2015,Southern SI,SI,7.6
+2016,Southwest Queens,Queens,7
+2013,Southwest Queens,Queens,8.1
+2012,Southwest Queens,Queens,8.3
+2015,Southwest Queens,Queens,8.1
+2017,Southwest Queens,Queens,6.9
+2010,Southwest Queens,Queens,9.2
+2011,Southwest Queens,Queens,9.4
+2014,Southwest Queens,Queens,8.4
+2018,Southwest Queens,Queens,6.6
+2009,Southwest Queens,Queens,10
+2010,Sunset Park,Brooklyn,10.2
+2009,Sunset Park,Brooklyn,11
+2018,Sunset Park,Brooklyn,7.7
+2013,Sunset Park,Brooklyn,9.1
+2014,Sunset Park,Brooklyn,9.6
+2015,Sunset Park,Brooklyn,9.5
+2016,Sunset Park,Brooklyn,8.4
+2017,Sunset Park,Brooklyn,8.1
+2011,Sunset Park,Brooklyn,10.8
+2012,Sunset Park,Brooklyn,9.6
+2018,Union Square-Lower Manhattan,Manhattan,8.4
+2010,Union Square-Lower Manhattan,Manhattan,11.3
+2016,Union Square-Lower Manhattan,Manhattan,9.2
+2015,Union Square-Lower Manhattan,Manhattan,10.2
+2017,Union Square-Lower Manhattan,Manhattan,8.7
+2011,Union Square-Lower Manhattan,Manhattan,11.7
+2013,Union Square-Lower Manhattan,Manhattan,10.4
+2014,Union Square-Lower Manhattan,Manhattan,10.8
+2009,Union Square-Lower Manhattan,Manhattan,12.4
+2012,Union Square-Lower Manhattan,Manhattan,10.7
+2016,Upper East Side-Gramercy,Manhattan,9.9
+2017,Upper East Side-Gramercy,Manhattan,9.5
+2014,Upper East Side-Gramercy,Manhattan,12.1
+2013,Upper East Side-Gramercy,Manhattan,12.1
+2018,Upper East Side-Gramercy,Manhattan,9.4
+2010,Upper East Side-Gramercy,Manhattan,13
+2011,Upper East Side-Gramercy,Manhattan,13
+2009,Upper East Side-Gramercy,Manhattan,13.9
+2012,Upper East Side-Gramercy,Manhattan,12.1
+2015,Upper East Side-Gramercy,Manhattan,10.9
+2014,Upper West Side,Manhattan,10.4
+2015,Upper West Side,Manhattan,9.8
+2013,Upper West Side,Manhattan,10.4
+2012,Upper West Side,Manhattan,10.5
+2017,Upper West Side,Manhattan,8.3
+2018,Upper West Side,Manhattan,8.2
+2016,Upper West Side,Manhattan,8.5
+2009,Upper West Side,Manhattan,12.2
+2010,Upper West Side,Manhattan,11
+2011,Upper West Side,Manhattan,11.5
+2018,Washington Heights,Manhattan,7.3
+2010,Washington Heights,Manhattan,10.7
+2011,Washington Heights,Manhattan,11.1
+2016,Washington Heights,Manhattan,7.8
+2012,Washington Heights,Manhattan,9.9
+2014,Washington Heights,Manhattan,9.5
+2009,Washington Heights,Manhattan,11.6
+2017,Washington Heights,Manhattan,7.8
+2013,Washington Heights,Manhattan,9.5
+2015,Washington Heights,Manhattan,9.4
+2014,West Queens,Queens,9.5
+2018,West Queens,Queens,7.6
+2015,West Queens,Queens,9.2
+2016,West Queens,Queens,8.1
+2017,West Queens,Queens,7.9
+2009,West Queens,Queens,11
+2010,West Queens,Queens,9.9
+2012,West Queens,Queens,9.5
+2011,West Queens,Queens,10.6
+2013,West Queens,Queens,9.1
+2015,Williamsburg - Bushwick,Brooklyn,9.6
+2016,Williamsburg - Bushwick,Brooklyn,8.7
+2011,Williamsburg - Bushwick,Brooklyn,10.9
+2014,Williamsburg - Bushwick,Brooklyn,9.8
+2012,Williamsburg - Bushwick,Brooklyn,9.7
+2013,Williamsburg - Bushwick,Brooklyn,9.4
+2018,Williamsburg - Bushwick,Brooklyn,8.1
+2017,Williamsburg - Bushwick,Brooklyn,8.2
+2009,Williamsburg - Bushwick,Brooklyn,11.4
+2010,Williamsburg - Bushwick,Brooklyn,10.3

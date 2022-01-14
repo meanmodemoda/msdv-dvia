@@ -1,0 +1,8 @@
+.DS_Store
+*~
+*.zip
+*.tar.gz
+**/node_modules
+npm-debug.log
+package-lock.json
+*.c9

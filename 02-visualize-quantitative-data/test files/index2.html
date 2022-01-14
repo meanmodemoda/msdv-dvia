@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Air We Breathe</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bowlby+One&family=Rampart+One&family=Noto+Sans+Display&display=swap" rel="stylesheet">
+  <link rel="stylesheet" type="text/css" href="../style.css"/>
+</head>
+<body>
+  <header>
+  <div class="intro">
+    <h1>The Air We Breathe</h1>
+    <h3>Are NYers breathing heathy air? The short answer is yes.</h3>
+    <p>Based on the data provided by <a href="https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r" target="_blank" rel="noopener">NYC OpenData</a>
+    , the overall air quality of New York City has been increasing since 2009. Almost all boroughs except Manhattan have been at healthy level for the past 10 years.
+    By 2018, all boroughs saw signficant air quality improvement based on average annual PM 2.5 values. The below mini visualization plots out the historical PM 2.5 trends across five boroughs.</p>
+  </div>
+  </header>
+     <div id="chart">
+        <div id="tooltip">
+          <div class="num"></div>
+          <div class="year"></div>
+          <div class="neighborhood"></div>
+        </div>
+     </div>
+  <script src="https://unpkg.com/d3"></script>
+  <script src="https://unpkg.com/@observablehq/stdlib@3"></script>
+<!--command + arrow up to move a line quickly up-->
+  <script src="app2.js"></script>
+   <footer>Yang Zhao | DVIA Assignment 2 | Fall 2021</footer>
+</body>
+</html>

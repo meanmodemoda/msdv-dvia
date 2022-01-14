@@ -1,0 +1,14 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2019-11-21T17:36:55.871Z,-5.2888,103.5596,65.26,4.8,mb,,87,2.629,0.82,us,us70006b5m,2019-11-21T18:00:44.040Z,"36km SW of Kuripan, Indonesia",earthquake,10.7,9.2,0.09,38,reviewed,us,us
+2019-11-21T09:19:50.183Z,7.2595,-34.0659,10,5,mb,,152,13.129,1.01,us,us70006ax4,2019-11-21T10:05:50.040Z,"Central Mid-Atlantic Ridge",earthquake,14.5,2,0.12,22,reviewed,us,us
+2019-11-21T05:14:31.813Z,5.1458,127.1681,74.56,4.8,mb,,111,2.479,0.65,us,us70006au5,2019-11-21T05:42:13.040Z,"173km SE of Pondaguitan, Philippines",earthquake,8.9,7.5,0.062,80,reviewed,us,us
+2019-11-21T04:27:20.239Z,-18.7464,-177.7655,605.64,4.5,mb,,79,4.096,1.37,us,us70006atr,2019-11-21T04:44:17.040Z,"232km NNE of Ndoi Island, Fiji",earthquake,12.1,9.1,0.047,129,reviewed,us,us
+2019-11-21T02:20:52.567Z,-19.7928,14.836,10,4.6,mb,,50,2.657,0.69,us,us70006ass,2019-11-21T02:39:01.040Z,"64km NNW of Khorixas, Namibia",earthquake,9,1.9,0.146,14,reviewed,us,us
+2019-11-21T01:14:43.047Z,19.3963,101.3651,10,4.5,mb,,110,2.361,0.83,us,us70006arz,2019-11-21T06:16:41.338Z,"35km NE of Bo Kluea, Thailand",earthquake,9.6,1.9,0.171,10,reviewed,us,us
+2019-11-20T23:50:44.205Z,19.4512,101.3449,10,6.1,mww,,33,2.356,0.77,us,us70006ara,2019-11-21T17:49:21.775Z,"31km ESE of Chaloem Phra Kiat, Thailand",earthquake,6.8,1.8,0.089,12,reviewed,us,us
+2019-11-20T22:31:35.522Z,6.7538,125.0024,10,4.6,mb,,65,0.652,0.87,us,us70006aqe,2019-11-21T04:02:13.416Z,"9km NE of Columbio, Philippines",earthquake,5.2,1.7,0.111,24,reviewed,us,us
+2019-11-20T21:27:12.389Z,45.4871,95.922,10,4.5,mb,,53,8.016,0.62,us,us70006ap3,2019-11-20T22:20:49.040Z,"9km SSE of Tseel, Mongolia",earthquake,9.2,1.9,0.1,29,reviewed,us,us
+2019-11-20T21:19:24.274Z,19.412,101.3851,10,4.6,mb,,109,2.383,0.68,us,us70006any,2019-11-21T04:27:07.302Z,"36km ESE of Chaloem Phra Kiat, Thailand",earthquake,3.7,1.9,0.193,8,reviewed,us,us
+2019-11-20T21:03:57.749Z,19.4377,101.2241,10,5.7,mww,,49,2.243,0.99,us,us70006anm,2019-11-21T10:09:17.185Z,"21km SE of Chaloem Phra Kiat, Thailand",earthquake,5.8,1.8,0.08,15,reviewed,us,us
+2019-11-20T19:02:43.165Z,45.0223,146.9547,146.01,4.8,mb,,137,3.245,0.78,us,us70006ala,2019-11-20T19:52:06.040Z,"76km WSW of Kuril'sk, Russia",earthquake,9.2,7.2,0.041,182,reviewed,us,us
+2019-11-20T18:51:14.195Z,18.929,145.1173,607.78,4.9,mb,,43,3.723,0.86,us,us70006akx,2019-11-20T19:16:13.040Z,"60km WNW of Agrihan, Northern Mariana Islands",earthquake,10.4,4.6,0.029,375,reviewed,us,us

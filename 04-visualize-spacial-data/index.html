@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+<title>Recent Earthquakes</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;800&family=Russo+One&display=swap"
+        rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<script src="https://d3js.org/d3.v6.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+   crossorigin=""/>
+ <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+</head>
+<body>
+    <div class="sidebar" id="sidebar">
+        <div class="intro" id="intro">
+        <h1>Recent Earthquakes</h1>
+        <div class="introbar"></div>
+        <h4>This mini visualization illustrates all earthquakes took place in the world in the past 30 days between Oct 8 and Nov 7 2021.</h4>
+        <span class="count"><h3>Total Number of Earthquakes: </h3></span><span class="count-num"><h3>9,056</h3></span>
+        <div class="magsum">
+          <h4>Magnitude</h4>
+          <div class="magbar"></div>
+        <span class="legend-beg">Min: -1.35</span><span class="legend-end">Max: 6.9</span>
+        </div>
+         <div class="depthsum">
+          <h4>Depth</h4>
+          <div class="dcsmall">
+         <span class="dlegend-beg">Min: -7.3</span><span class="dscircle">
+        </div>
+        <div class="dclarge">
+        <span class="dlegend-end">Max: 655.67</span></span><span class="dlcircle"></span>
+          </div>
+        </div>   
+        <div class="disclaimer">
+        <p>It's a pity that I wasn't able to get the d3.js tooltip to work. I did some research that it seems that Leaflet sets the pointer-events CSS property to none on HTML elements that should not receive mouse/touch/pointer events. I need to either override Leaflet settings or use Leaflet's own geoJSON layer functions which work best in geoJSON format while all my data structure is in CSV. Regardless, I learned a lot of binding d3.js onto Leaflet and will find time to explore further. Also, the data points overlap each other so much that a tooltip might not be that helpful.</p>
+        </div>
+        <footer>Yang Zhao | DVIA Assignment 4 | Fall 2021</footer>
+        </div>
+    </div>
+      
+<div id="map" class="map"></div>
+<script type="text/javascript" src="https://stamen-maps.a.ssl.fastly.net/js/tile.stamen.js?v1.3.0"></script>
+<script src="./app.js"></script>
+</body>
+
+</html>
+
+
