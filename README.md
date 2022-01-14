@@ -14,6 +14,7 @@ I leveraged my past machine learning knowledge to process 10 years of State of T
 ### [Assignment 4](https://github.com/muonius/msdv-dvia/tree/master/04-visualize-spacial-data): Visualize Geospacial Data
 I learned to use `GeoJSON` and `Leaflet` to plot out recent earthquate data. 
 
+##
 For detailed documentation, please refer to README markdown of individual assignment.
 
 

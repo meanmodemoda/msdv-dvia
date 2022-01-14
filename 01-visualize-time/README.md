@@ -39,6 +39,10 @@ A growing white blob on top of it indicates the minute progress. As minute appro
 A big yellow circle rotates at the background at the speed of a second hand of an analog clock. A red stroke runs counter clock at the same speed. These contradictory seconds symbolize the contradictory nature of time.
 ##
 
+### Outcome
+<img src="./Yang-Zhao_Assignment01_Visualize-Time.png" width="800" alt="Visualization Screenshot">
+
+##
 ### Constraints and Compromises
 
 As seen in my sketches, I initially wanted to create blobs that interact with the canvas frame as well as other blobs - the blobs will squeeze into new organic shapes upon interacting with other elements. Upon research, I realized that the best library to create such effect is using [paper.js](http://paperjs.org/examples/candy-crash/) but the sample code is quite complicated for me to comprehend. I decided to use P5.js as a starter project.
