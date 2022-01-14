@@ -11,7 +11,7 @@ For any data project, I always like to contextualize my data. I chose to zoom in
 <img src="./Yang Zhao_Assignment 2_Screenshot.png" width="800" alt="Graph Screenshot">
 
 
-#### Credit
+### Credit
 `d3.js` is quite challenging for a JavaScript beginner. Thanks to the following resources, I think I laid a good foundation of basic `d3` charts. 
 
 - [Learning and Understanding D3.js](https://www.udemy.com/course/learn-d3js-for-data-visualization/) by Luis Ramirez Jr from Udemy

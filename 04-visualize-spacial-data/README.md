@@ -5,3 +5,7 @@ Use `Leaflet` to illustrate most recent earthquakaes using  GeoJSON data from [U
 I layered Stamen tiles `Toner` with `Watercolor` and used `d3.js` to plot out last 30 day earthquakes. Lots of improvement need to be done such as transform the bubble display positions which currently all start from the top left corner.
 
 I also ran into issue displaying tooltips. In retrospect, I should have used `Leaflet`'s built in tooltip.
+
+### Outcome
+
+<img src="./Yang_Zhao_Assignment 4_Screenshot.png" width="800" alt="Graph Screenshot">
