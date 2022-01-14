@@ -18,4 +18,4 @@ I chose `d3.js` bubble charts for my visualization.
 
 ### Limitations
 
-This is a weekly assignment. Should time allowed, I would have pre-processed the text with greater context such as lemmatizion. My `d3.js` chart is also a bit buggy that I will revisit and modify.
+This is a weekly assignment. Should time allow, I would have pre-processed the text with greater context such as lemmatizion. My `d3.js` chart is also a bit buggy that I will revisit and modify.
