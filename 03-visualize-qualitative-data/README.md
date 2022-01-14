@@ -9,6 +9,7 @@ I chose to analyze the past 10 years State of the Union speeches. As a foreigner
 ### Text Processing
 I pre-processed the text(normalized and tokenized) and then I used the [Gensim Word2Vec model](https://tedboy.github.io/nlps/generated/generated/gensim.models.Word2Vec.most_similar.html) to identify most similar words related to the abovementioned keywards in each speech.
 
+For details of text preprocessing, see [here](https://github.com/muonius/msdv-dvia/blob/master/03-visualize-qualitative-data/data/processing.py).
 
 ### Visualization
 I chose `d3.js` bubble charts for my visualization.
