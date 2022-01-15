@@ -23,7 +23,6 @@ I leveraged my past machine learning knowledge to process 10 years of State of T
 ### [Assignment 4](https://github.com/muonius/msdv-dvia/tree/master/04-visualize-spacial-data): Visualize Geospacial Data
 I learned to use `GeoJSON` and `Leaflet` to plot out recent earthquate data. 
 <img src="./04-visualize-spacial-data/Yang_Zhao_Assignment 4_Screenshot.png" width="800" alt="Space Screenshot">
-
 <br />
 **Project Link:** [Recent Earthquakes](https://muons.com/msdv-dvia/04-visualize-spacial-data/)
 
